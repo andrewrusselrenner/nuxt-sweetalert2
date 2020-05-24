@@ -22,14 +22,14 @@
   },
   "homepage": "https://github.com/ImreC/nuxt-sweetalert2#readme",
   "dependencies": {
-    "sweetalert2": "7.x"
+    "sweetalert2": "9.x"
   },
   "devDependencies": {
-      "babel-core": "^6.26.3",
-      "babel-polyfill": "^6.26.0",
-      "babel-preset-env": "^1.7.0",
-      "babel-preset-stage-3": "^6.24.1",
-      "babel-preset-vue": "^2.0.2",
-      "vue": "^2.5.16"
+        "babel-core": "^6.26.3",
+        "babel-polyfill": "^6.26.0",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-stage-3": "^6.24.1",
+        "babel-preset-vue": "^2.0.2",
+      "vue": "^2.6.11"
   }
 }
